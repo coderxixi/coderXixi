@@ -1,9 +1,9 @@
 <h2>☀️ 你好 世界</h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=sudongyuer.sudongyuer" alt="visitor badge" />
-<p>哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是嘻嘻，坐标广州。</p>
+<p>你好鸭，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是嘻嘻,坐标广州。</p>
 
 
-<p>在学习中～</p>
+<p>热爱学习～</p>
 <h2>💼 repo</h2>
 <p>下面是我在学前端的路上写的一些个人项目,有的比较认真 🧐，有的只是为了好玩 🎮，有的比较沙雕 🤪。</p>
 <table>
