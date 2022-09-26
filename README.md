@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
       </th>
       <th>
-        <img src="https://img.shields.io/github/stars/coderXixi/mini-vue?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/coderXixi/vue-admin?style=flat-square" alt="badge">
       </th>
     </tr>
   
