@@ -19,18 +19,18 @@
   <tbody align="left">
     <tr>
       <th>
-        <a href="https://github.com/sudongyuer/mini-vue3" target="_blank">
+        <a href="https://github.com/coderXixi/mini-vue3" target="_blank">
         mini-vue3</a>
       </th>
       <th>
-        <a href="https://github.com/sudongyuer/mini-vue3" target="_blank">Github</a>
+        <a href="https://github.com/coderXixi/mini-vue" target="_blank">Github</a>
       </th>
       <th>🙃 mini vue3 实现</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
       </th>
       <th>
-        <img src="https://img.shields.io/github/stars/sudongyuer/mini-vue3?style=flat-square" alt="badge">
+        <img src="https://img.shields.io/github/stars/coderXixi/mini-vue3?style=flat-square" alt="badge">
       </th>
     </tr>
   </tbody>
