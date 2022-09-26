@@ -19,7 +19,7 @@
   <tbody align="left">
     <tr>
       <th>
-        <a href="https://github.com/coderXixi/mini-vue3" target="_blank">
+        <a href="https://github.com/coderXixi/mini-vue" target="_blank">
         mini-vue3</a>
       </th>
       <th>
@@ -33,6 +33,25 @@
         <img src="https://img.shields.io/github/stars/coderXixi/mini-vue?style=flat-square" alt="badge">
       </th>
     </tr>
+      <tr>
+      <th>
+        <a href="https://github.com/coderXixi/vue-admin" target="_blank">
+        vue-admin</a>
+      </th>
+      <th>
+        <a href="https://github.com/coderXixi/vue-admin" target="_blank">Github</a>
+      </th>
+      <th>🐇 一个vue3管理后台模版</th>
+      <th>
+       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/coderXixi/mini-vue?style=flat-square" alt="badge">
+      </th>
+    </tr>
+  
   </tbody>
 
 </table>
