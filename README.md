@@ -25,7 +25,7 @@
       <th>
         <a href="https://github.com/coderXixi/mini-vue" target="_blank">Github</a>
       </th>
-      <th>🙃 mini vue3 实现</th>
+      <th>🙃 mini-vue3 实现</th>
       <th>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="badge">
       </th>
