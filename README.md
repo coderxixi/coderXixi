@@ -1,6 +1,6 @@
 <h2>☀️ 你好 世界</h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=sudongyuer.sudongyuer" alt="visitor badge" />
-<p>你好鸭，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是嘻嘻,坐标广州。</p>
+<p>你好鸭，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是嘻嘻,坐标南昌。</p>
 
 
 <p>热爱学习📖～</p>
