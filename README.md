@@ -1,3 +1,26 @@
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderxixi&bg_color=transparent&color=7fa1f7&line=f77f7f&point=f7ab7f&area=true&hide_border=true)](https://github.com/GrinZero)
+
+<div align="center">
+< img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderxixi&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/>< img src="https://github-readme-stats.vercel.app/api?username=GrinZero&theme=dracula" alt="My github stats" height="185px"/>
+</div>
+
+### Hi guys 👋
+
+- 🌱 I focus on react and more front-end knowledge
+- 📫 How to reach me: 976344695@qq.com
+- 📚 blog：https://juejin.cn/user/325111174408664
+
+### Others
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2coderxixi&label=visitor&countColor=%237fa1f7)
+
+<!-- invite code: aHR0cHM6Ly9naXRodWIuY29tL3VzZXItYXR0YWNobWVudHMvZmlsZXMvMTczNjA5NDQvaW52aXRlLnppcA== -->
+<!-- psd: https://github.com/user-attachments/assets/450b51b4-6916-4be7-9416-fb269f20bbaf -->
+
+
+
+
 <h2>☀️ 你好 世界</h2>
 <img src="https://visitor-badge.glitch.me/badge?page_id=sudongyuer.sudongyuer" alt="visitor badge" />
 <p>你好鸭，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> 我是嘻嘻,坐标南昌。</p>
