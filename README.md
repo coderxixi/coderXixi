@@ -1,8 +1,9 @@
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderxixi&bg_color=transparent&color=7fa1f7&line=f77f7f&point=f7ab7f&area=true&hide_border=true)](https://github.com/GrinZero)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=coderxixi&bg_color=transparent&color=7fa1f7&line=f77f7f&point=f7ab7f&area=true&hide_border=true)](https://github.com/coderxixi)
 
 <div align="center">
-< img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderxixi&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/>< img src="https://github-readme-stats.vercel.app/api?username=GrinZero&theme=dracula" alt="My github stats" height="185px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderxixi&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=coderxixi&theme=dracula" alt="My github stats" height="185px"/>
 </div>
 
 ### Hi guys 👋
